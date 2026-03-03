@@ -21,10 +21,10 @@ export default function JsonLd() {
     ],
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'Shop 97, Panchayat Samiti complex, 1st floor',
-      addressLocality: 'Pathri',
+      streetAddress: 'Chowk Bajar, Main Road, Jintur Dist.- Parbhani 431509',
+      addressLocality: 'Jintur',
       addressRegion: 'Maharashtra',
-      postalCode: '431506',
+      postalCode: '431509',
       addressCountry: 'IN',
     },
   }

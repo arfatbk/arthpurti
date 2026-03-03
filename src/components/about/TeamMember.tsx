@@ -4,7 +4,7 @@ interface TeamMemberProps {
   name: string
   role: string
   image: string
-  bio: string
+  bio?: string
   linkedIn?: string
 }
 
@@ -22,7 +22,7 @@ export default function TeamMember({ name, role, image, bio, linkedIn }: TeamMem
       </div>
       <h3 className="mt-4 text-lg font-semibold leading-8 text-gray-900">{name}</h3>
       <p className="text-base leading-7 text-blue-600">{role}</p>
-      <p className="mt-2 text-sm leading-6 text-gray-600">{bio}</p>
+      {bio && <p className="mt-2 text-sm leading-6 text-gray-600">{bio}</p>}
       {linkedIn && (
         <a
           href={linkedIn}

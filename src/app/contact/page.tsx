@@ -8,7 +8,7 @@ const contactMethods = [
 		name: 'Head Office',
 		description: name+' Main Office',
 		icon: MapPinIcon,
-		details: 'Shop 97, Panchayat Samiti complex, 1st floor, Pathri, Dist.- Parbhani, Maharashtra - 431506',
+		details: 'Chowk Bajar, Main Road, Jintur Dist.- Parbhani 431509',
 		type: 'address',
 	},
 	{

@@ -1,18 +1,18 @@
 export const siteConfig = {
   basePath: process.env.ENVIRONMENT === 'local' ? "" : "/",
   name: {
-    short: "Swarajya Urban",
-    full: "Swarajya Urban Society",
-    legal: "Swarajya Urban Co-operative Credit Society Ltd.",
+    short: "Arthpurti Patsanstha",
+    full: "Arthpurti Patsanstha",
+    legal: "Arthpurti Patsanstha Co-operative Credit Society Ltd.",
   },
   description: "Your trusted partner in financial growth",
-  url: "https://swarajyurban.in",
+  url: "https://arthpurtipatsanstha.com",
   socials: {
     facebook:
-      "https://www.facebook.com/people/Swarajy-Urban-Co-Op-Credit-Society-Limited-Pathri/61575036741457/",
+      "https://www.facebook.com/profile.php?id=100070867578193&sk=mentions",
     instagram:
-      "https://www.facebook.com/people/Swarajy-Urban-Co-Op-Credit-Society-Limited-Pathri/61575036741457/",
+      "https://www.instagram.com/arthpurtipatsanstha/",
   },
-  email: "swarajyurban@gmail.com",
-  contact: "+91 91 5843 1818 ",
+  email: "arthpurtipatsanstha@gmail.com",
+  contact: "+91 8857097979",
 } as const;

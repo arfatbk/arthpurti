@@ -4,17 +4,24 @@ import { siteConfig } from "@/config/site";
 
 const teamMembers = [
   {
-    name: 'Ganesh Surwase',
-    role: 'Chairman & Founder',
+    name: 'Ratnadeep Kalamkar',
+    role: 'Chairman',
     image: '/assets/team/md.jpg',
-    bio: 'Established Business owner over 20 years of experience serving customers. Passionate about empowering communities through financial literacy and inclusion.',
+    // bio: 'Established Business owner over 20 years of experience serving customers. Passionate about empowering communities through financial literacy and inclusion.',
     // linkedIn: '#',
   },
   {
-    name: 'Arun Thapde',
+    name: 'Kishor Jinturkar',
+    role: 'Vice-Chairman',
+    image: '/assets/team/chairman.jpg',
+    // bio: 'Over 10 years of experience in banking and finance. Committed to driving innovation and excellence in customer service.',
+    // linkedIn: '#',
+  },
+  {
+    name: 'Ashok Chidrawar',
     role: 'CEO',
     image: '/assets/team/chairman.jpg',
-    bio: 'Over 10 years of experience in banking and finance. Committed to driving innovation and excellence in customer service.',
+    // bio: 'Over 10 years of experience in banking and finance. Committed to driving innovation and excellence in customer service.',
     // linkedIn: '#',
   },
 ]

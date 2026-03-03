@@ -5,13 +5,13 @@ const values = [
   {
     name: 'Mission',
     description:
-      'To empower individuals and businesses by providing accessible, innovative financial solutions while maintaining the highest standards of service and integrity.',
+      'To inspire communities by providing them financial service based on strong customer relationships and connecting them to wealthier world.',
     icon: RocketLaunchIcon,
   },
   {
     name: 'Vision',
     description:
-      'To be the most trusted and preferred financial institution, fostering economic growth and prosperity in our community.',
+      'We work hard to make Arthpurti Patsanstha the most respected service brand in Financial institution with excellence in customer and employee satisfaction and shareholder value.',
     icon: ScaleIcon,
   },
   {
@@ -41,7 +41,7 @@ export default function MissionVision() {
               Our Mission & Vision
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-2xl mx-auto">
-              Building a stronger financial future for our community through trust, innovation, and excellence.
+              To inspire communities by providing them financial service based on strong customer relationships and connecting them to wealthier world.
             </p>
           </div>
           <dl className="mt-16 grid grid-cols-1 gap-x-8 gap-y-12 sm:mt-20 sm:grid-cols-2 lg:grid-cols-3">

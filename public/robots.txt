@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://swarajyurban.in
+Host: https://arthpurtipatsanstha.com/
 
 # Sitemaps
-Sitemap: https://swarajyurban.in/sitemap.xml
+Sitemap: http://arthpurtipatsanstha.com//sitemap.xml

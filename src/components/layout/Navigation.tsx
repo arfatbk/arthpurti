@@ -30,19 +30,19 @@ export default function Navigation() {
                   <Image
                   src="/logo.png"
                   alt={siteConfig.name.short}
-                  width={56}
-                  height={56}
-                  className="h-16 w-16 object-contain transition-transform group-hover:scale-105"
+                  width={64}
+                  height={64}
+                  className="h-18 w-18 object-contain transition-transform group-hover:scale-105"
                   priority
                   />
-                  <Image 
+                  {/* <Image 
                   src="/logo-name.png"
                   alt={`${siteConfig.name.short} Logo`}
                   width={100}
                   height={56}
                   className="h-16 object-contain transition-transform group-hover:scale-105" 
                   priority
-                  />
+                  /> */}
                 </Link>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                   {navigation.map((item) => (
