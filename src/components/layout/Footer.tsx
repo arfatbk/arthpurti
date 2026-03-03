@@ -1,13 +1,5 @@
 import Link from "next/link";
 import { siteConfig } from "@/config/site";
-import {
-  HomeIcon,
-  BanknotesIcon,
-  CurrencyRupeeIcon,
-  BriefcaseIcon,
-  ShieldCheckIcon,
-  LockClosedIcon,
-} from "@heroicons/react/24/outline";
 
 interface IconProps {
   className: string;

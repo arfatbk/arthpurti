@@ -27,6 +27,7 @@ export default function JobApplicationForm() {
   } = useForm<FormData>()
 
   const onSubmit = async (data: FormData) => {
+    console.log('Form data:', data)
     setIsSubmitting(true)
     try {
       // Here you would typically send the data to your backend

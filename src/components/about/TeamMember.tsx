@@ -1,4 +1,3 @@
-import Image from 'next/image'
 
 interface TeamMemberProps {
   name: string
@@ -8,7 +7,7 @@ interface TeamMemberProps {
   linkedIn?: string
 }
 
-export default function TeamMember({ name, role, image, bio, linkedIn }: TeamMemberProps) {
+export default function TeamMember({ name, role, bio, linkedIn }: TeamMemberProps) {
   return (
     <div className="group relative">
       <div className="aspect-h-3 aspect-w-3 overflow-hidden rounded-lg">

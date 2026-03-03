@@ -9,7 +9,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold tracking-tight text-gray-900">Introduction</h2>
             <p className="mt-4">
-              Welcome to {siteConfig.name.legal}. These Terms and Conditions ("Terms") govern your use of our banking services.
+              Welcome to {siteConfig.name.legal}. These Terms and Conditions (&quot;Terms&quot;) govern your use of our banking services.
               By opening an account or using any of our services, you agree to comply with and be bound by these Terms.
               If you do not agree with these Terms, please do not use our services.
             </p>
@@ -18,10 +18,10 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold tracking-tight text-gray-900">Definitions</h2>
             <div className="mt-4 space-y-4">
-              <p>"Account" refers to any account opened by the Customer with {siteConfig.name.legal}.</p>
-              <p>"Customer" refers to any individual or entity that holds an account or uses banking services provided by {siteConfig.name.legal}.</p>
-              <p>"Services" refers to all banking services offered by {siteConfig.name.legal}, including but not limited to savings accounts, checking accounts, loans, online banking, and mobile banking.</p>
-              <p>"Content" refers to all information, data, text, software, music, sound, photographs, graphics, video, messages, or other materials provided by {siteConfig.name.legal}.</p>
+              <p>&quot;Account&quot; refers to any account opened by the Customer with {siteConfig.name.legal}.</p>
+              <p>&quot;Customer&quot; refers to any individual or entity that holds an account or uses banking services provided by {siteConfig.name.legal}.</p>
+              <p>&quot;Services&quot; refers to all banking services offered by {siteConfig.name.legal}, including but not limited to savings accounts, checking accounts, loans, online banking, and mobile banking.</p>
+              <p>&quot;Content&quot; refers to all information, data, text, software, music, sound, photographs, graphics, video, messages, or other materials provided by {siteConfig.name.legal}.</p>
             </div>
           </section>
 
@@ -56,7 +56,7 @@ export default function TermsPage() {
             <h2 className="text-2xl font-bold tracking-tight text-gray-900">Interest and Fees</h2>
             <p className="mt-4">
               Interest rates for savings accounts and other interest-bearing accounts will be determined by {siteConfig.name.legal} and may change from time to time.
-              Fees may be charged for various services as outlined in the {siteConfig.name.legal}'s fee schedule.
+              Fees may be charged for various services as outlined in the {siteConfig.name.legal}&apos;s fee schedule.
             </p>
           </section>
 
@@ -65,7 +65,7 @@ export default function TermsPage() {
             <div className="mt-4 space-y-4">
               <p>{siteConfig.name.legal} offers online and mobile banking services to eligible customers.</p>
               <p>Customers must use secure and up-to-date devices and software to access electronic banking services.</p>
-              <p>{siteConfig.name.legal} is not liable for any loss or damage arising from unauthorized access to a customer's account due to the customer's failure to safeguard their login credentials.</p>
+              <p>{siteConfig.name.legal} is not liable for any loss or damage arising from unauthorized access to a customer&apos;s account due to the customer&apos;s failure to safeguard their login credentials.</p>
             </div>
           </section>
 
