@@ -3,7 +3,7 @@ export const siteConfig = {
   name: {
     short: "Arthpurti Patsanstha",
     full: "Arthpurti Patsanstha",
-    legal: "Arthpurti Patsanstha Co-operative Credit Society Ltd.",
+    legal: "Arthpurti Sahakari Patsantha Maryadit Jintur",
   },
   description: "Your trusted partner in financial growth",
   url: "https://arthpurtipatsanstha.com",
