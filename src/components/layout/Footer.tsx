@@ -20,6 +20,7 @@ const navigation = {
     { name: "Cookie Policy", href: "/legal/cookies" },
     { name: "Disclaimer", href: "/legal/disclaimer" },
     { name: "Regulatory Information", href: "/legal/regulatory" },
+    { name: "Refund & Cancellation", href: "/legal/refund" },
   ],
   social: [
     {
